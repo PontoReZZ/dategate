@@ -1,5 +1,6 @@
 {
   "name": "dategate",
+  "homepage": "https://pontorezz.github.io/dategate/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
